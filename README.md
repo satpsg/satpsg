@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Sathish 👋
 
 I'm an **MS Data Science and Analytics student at Kennesaw State University** with 8+ years of professional experience supporting manufacturing quality-data systems for Ford Motor Company.
